@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 02
   m_EditorClassIdentifier: 
   question: What is your age?
+  answers:
+  - No
+  - No
+  - Yes
+  - No
+  correctAnswerIndex: 2
